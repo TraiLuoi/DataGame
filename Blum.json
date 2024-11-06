@@ -135,7 +135,7 @@
         "BOMB": {
             "Point": -100,
             "Time": 0,
-            "Percent": 10,
+            "Percent": 3,
             "Min": 0
         },
         "CLOVER": {
